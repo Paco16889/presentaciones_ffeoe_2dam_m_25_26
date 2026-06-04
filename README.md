@@ -34,7 +34,7 @@ Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la
 | <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | Erasmus+ | Bueno González, Salvador | https://github.com/sbuegonz00/Presentacion_Practicas_Erasmus_SalvadorBuenoGonzalez |
 | <img src="img/aliqindoi.png" height="18" alt="Aliqindoi" /> | Aliqindoi | Butrii, Sergii | *pendiente* |
 | <img src="img/erasmusplus.jpg" height="22" alt="Erasmus" /> | Erasmus+ | Cano Jiménez, Antonio Lorenzo<br>Romero Maldonado, Adrián | *pendiente* |
-| <img src="img/PROPERLY.png" height="28" alt="Properly" /> | Properly | Cobo Sánchez, Francisco de Asís | *pendiente* |
+| <img src="img/PROPERLY.png" height="28" alt="Properly" /> | Properly | Cobo Sánchez, Francisco de Asís | https://github.com/Paco16889/DualFCS.git |
 | <img src="img/AngelsCaring.jpeg" height="18" alt="Angels Caring" /> | Angels Caring | Cristóbal Gómez, Hugo de | *pendiente* |
 | <img src="img/uma.png" height="22" alt="UMA" /> | UMA | Diáñez Gómez, Guillermo | *pendiente* |
 | <img src="img/viewnext.jpeg" height="22" alt="ViewNext" /> | ViewNext | Domínguez González, José Antonio<br>Jiménez Muñoz, Álvaro | https://github.com/Almucero/Dual-ViewNext-2DAM |
